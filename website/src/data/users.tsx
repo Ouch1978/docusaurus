@@ -1067,6 +1067,14 @@ const Users: User[] = [
     tags: ['opensource', 'versioning'],
   },
   {
+    title: 'Ouch1978',
+    description: 'My personal website with docs, blog and reveal-md slide integrated, focus on programming and agile stuffs.',
+    preview: require('./showcase/ouch1978.png'),
+    website: 'https://ouch1978.github.io',
+    source: 'https://github.com/ouch1978/ouch1978.github.io',
+    tags: ['opensource','personal'],
+  },  
+  {
     title: 'Oxidizer',
     description: 'A Rust ORM based on tokio-postgres and refinery',
     preview: require('./showcase/oxidizer.png'),
